@@ -30,6 +30,9 @@
   align-items: center;
   border-radius: 2em;
   border: 1px solid blue;
+  font-size: 80%;
+  white-space: nowrap;
+  overflow: scroll;
 }
 
 #dog-summary-container {
